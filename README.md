@@ -18,6 +18,9 @@ Este proyecto implementa un **sistema digital** que:
 
 ## Estructura del Repositorio
 
+![Img](https://github.com/user-attachments/assets/7c4d3c63-5aaf-4343-b8ba-aeccd0b98a07)
+
+
 - **`sumador_2bits.circ`**  
   Implementa la lógica para sumar dos números de 2 bits, generando un resultado de 3 bits (extendido a 4 para el multiplexor).
 
@@ -80,5 +83,3 @@ Para cada uno de los módulos (sumador, comparador, etc.), se recomienda:
 - Material de clase sobre **Sistemas Digitales**, tablas de verdad, mapas de Karnaugh y codificación en 7 segmentos.
 
 ---
-
-¡Listo! Con esto tu `README.md` estará actualizado y describirá claramente la **Actividad II**, sus objetivos, los archivos y la manera de utilizarlos.
