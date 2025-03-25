@@ -16,8 +16,6 @@ Este proyecto implementa un **sistema digital** que:
 
 ---
 
-## Estructura del Repositorio
-
 ![Img](https://github.com/user-attachments/assets/7c4d3c63-5aaf-4343-b8ba-aeccd0b98a07)
 
 
