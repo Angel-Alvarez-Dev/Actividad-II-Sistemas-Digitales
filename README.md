@@ -67,14 +67,6 @@ Este proyecto implementa un **sistema digital** que:
 
 ---
 
-## Técnicas de Reducción de Funciones Lógicas
-
-Para cada uno de los módulos (sumador, comparador, etc.), se recomienda:
-- **Generar tablas de verdad** y **reducir** con **mapas de Karnaugh** o **álgebra booleana**.
-- Verificar que las expresiones lógicas mínimas cumplan los requisitos de la actividad.
-
----
-
 ## Referencias
 
 - [Logisim Evolution](https://github.com/reds-heig/logisim-evolution): Herramienta para diseñar y simular circuitos digitales.
